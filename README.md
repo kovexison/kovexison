@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kovexison (Attila Kovacs)
 - 👀 I’m interested in web development. (rn)
-- 🌱 I’m currently learning Computer Science - Automation
 - 📫 How to reach me? Via email. attilakovcs59@gmail.com
 
 <!---
